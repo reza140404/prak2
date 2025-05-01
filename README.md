@@ -14,6 +14,5 @@
     <button onclick="login()"><a href="hal1.html">confirm</a></button>
     <p id="error-msg" class="error"></p>
   </div>
-  <script src="script.js"></script>
 </body>
 </html>
